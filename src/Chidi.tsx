@@ -3,7 +3,7 @@ import React from 'react'
 const Chidi = () => {
   return (
     <div>
-     Chidi Comp 
+     Chidi Comp Hi
     </div>
   )
 }
